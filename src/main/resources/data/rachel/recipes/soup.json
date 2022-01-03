@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "CRP",
+    " B "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:cooked_chicken"
+    },
+    "C": {
+      "item": "minecraft:carrot"
+    },
+    "R": {
+      "item": "rachel:heart"
+    },
+    "P": {
+      "item": "minecraft:potato"
+    },
+    "B": {
+      "item": "minecraft:bowl"
+    }
+  },
+  "result": {
+    "item": "rachel:soup",
+    "count": 3
+  }
+}

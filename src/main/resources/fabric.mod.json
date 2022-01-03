@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "rachel",
+  "version": "${version}",
+
+  "name": "First Mod",
+  "description": "My first mod",
+  "authors": [
+    "ben10"
+  ],
+  "contact": {
+    "homepage": "",
+    "sources": ""
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/rachel/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.ben10.rachel.Mods"
+    ]
+  },
+  "mixins": [
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.11.3",
+    "fabric": "*",
+    "minecraft": "1.18.x",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
