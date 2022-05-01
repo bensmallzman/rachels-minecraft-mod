@@ -11,3 +11,4 @@ This template is available under the CC0 license. Feel free to learn from it and
 
 Credit to YouTube channels:
 TechnoVision, Suited Llama, TotallyGamerJet, Draylar, Mathew Lefebvre
+# rachels-minecraft-mod
